@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="https://drive.google.com/file/d/1cNRtDBXNmmZ0fPa0nXyy_ucGTmDfGLlY/view?usp=drivesdk" height="200"/>
+  <img src="https://drive.google.com/file/d/1cNRtDBXNmmZ0fPa0nXyy_ucGTmDfGLlY/view?usp=drivesdk" height="700"/>
 </p>
 
 <hr>
