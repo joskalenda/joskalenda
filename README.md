@@ -60,8 +60,15 @@
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JosKlenda)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jos-kalenda-908069205/) 
-[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl)
+ <a target="_blank"
+    href="mailto:joskalenda3@gmail.com"><img
+    src="https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social"></img></a>
+  <a target="_blank"
 [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/Joskalenda)
-![Via WhatSaap](https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social)
+<a target="_blank" 
+   href="https://wa.me/+250780468223"><img 
+src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social"></img></a>
 ___
 <br>
+
+
