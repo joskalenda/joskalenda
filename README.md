@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="https://drive.google.com/file/d/1cNRtDBXNmmZ0fPa0nXyy_ucGTmDfGLlY/view?usp=drivesdk" height="700"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<!--   <img src="https://drive.google.com/file/d/1cNRtDBXNmmZ0fPa0nXyy_ucGTmDfGLlY/view?usp=drivesdk" height="700"/> -->
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
 <a href = "mailto: joskalenda3@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jos Kalenda&label=Views&color=blue&style=plastic" alt="Jos Kalenda" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joskalenda&label=Views&color=blue&style=plastic" alt="joskalenda" /></p>
 
 ### About Me :man:
 
