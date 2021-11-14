@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="https://photos.google.com/u/1/share/AF1QipNcxez6Jy4AfQE7Og5jSTL19J2OXoEpC5o8fecWaNvnXtIDArw2Q8LCs4aZo0TIbQ?pli=1&key=Zjk5M1V2NC1VdW1SbUVIOWw5SFRxYy1GNEVyRFZn" height="200"/>
+  <img src="https://drive.google.com/file/d/1cNRtDBXNmmZ0fPa0nXyy_ucGTmDfGLlY/view?usp=drivesdk" height="200"/>
 </p>
 
 <hr>
