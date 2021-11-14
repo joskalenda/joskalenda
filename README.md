@@ -28,19 +28,20 @@
 - 🤔 Aside from programming,  I am an artist! 😄 Yeah,I like drawing, listening to music, playing games, watching movies and just having fun.
 - 📫 How to reach me: `joskalenda3@gmail.com`.
 
-
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joskalenda&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joskalenda&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p> -->
-
 ## **Github Stats**
 
-<a align="center" href="https://github.com/M0rrighan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M0rrighan&show_icons=true&theme=merko" /><br><br><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joskalenda&show_icons=true&theme=merko" alt="akash-chowrasia" width="410" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joskalenda&show_icons=true&theme=merko&layout=compact" alt="akash-chowrasia" /></p>
+
+<!-- ## **Github Stats** -->
+
+<!-- <a align="center" href="https://github.com/M0rr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joskalenda&show_icons=true&theme=merko" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/M0rrighan/github-top-languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0rrighan&theme=merko" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joskalenda&show_icons=true&theme=merko" />
+</a> -->
 <hr>
 
 💻 **Languages and Tools:** 🛠️<br>
@@ -60,7 +61,8 @@
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
 
 <hr>
-### Connect with me:
+
+<h2 align="left"><b>Connect with me</b> 📫</h2>
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JosKlenda) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jos-kalenda-908069205/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/Joskalenda).
 ___
