@@ -20,7 +20,7 @@
 
 ### About Me :man:
 
-- 🔭 I certified from ![](https://img.shields.io/badge/-Udacity-informational) in AI programming with Python Nano Degree and currently studying **Software development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄 
+- 🔭 I'm certified from ![](https://img.shields.io/badge/-Udacity-informational) in AI programming with Python Nano Degree and currently studying **Software development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄 
 - 🌱 I’m currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄  
 - 👯 I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in machine learning and would like to contribute to this field later in my career.
@@ -62,12 +62,13 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jos-kalenda-908069205/) 
  <a target="_blank"
     href="mailto:joskalenda3@gmail.com"><img
-    src="https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social"></img></a>
-  <a target="_blank"
+    src="https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social"></img>
+ </a>
 [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/Joskalenda)
 <a target="_blank" 
    href="https://wa.me/+250780468223"><img 
-src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social"></img></a>
+src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social"></img>
+</a>
 ___
 <br>
 
