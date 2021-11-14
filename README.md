@@ -35,13 +35,12 @@
 
 ## **Github Stats**
 
-<a align="center" href="https://github.com/joskalenda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joskalenda&show_icons=true&locale=en" /><br><br><br>
+<a align="center" href="https://github.com/M0rrighan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M0rrighan&show_icons=true&theme=merko" /><br><br><br>
 </a>
-<a align="center" href="https://github.com/joskalenda/github-top-languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joskalenda&show_icons=true&locale=en&layout=compact"/>
+<a align="center" href="https://github.com/M0rrighan/github-top-languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0rrighan&theme=merko" />
 </a>
-
 <hr>
 
 💻 **Languages and Tools:** 🛠️<br>
