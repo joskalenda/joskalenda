@@ -27,7 +27,7 @@
 - 👯 I'm a Python lover 😄 and Arduino for IoT.
 - 🤔 Aside from programming,  I am an artist! 😄 Yeah,I like drawing, listening to music, playing games, watching movies and just having fun.
 - 📫 How to reach me: `joskalenda3@gmail.com`,`+250780468223`.
-- [Website](https://joskalenda.github.io/portfolio/)
+- 
 
 ## **Github Stats**
 
